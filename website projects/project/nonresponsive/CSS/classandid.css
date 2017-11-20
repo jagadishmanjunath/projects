@@ -1,0 +1,18 @@
+div{
+	background: blue;
+	height: 100px;
+	color: white;
+}
+
+.black{
+	background:black;
+	height: 100px;
+	color: white;
+}
+
+.pink{
+	background: hotpink;
+	height: 100px;
+}
+
+#red

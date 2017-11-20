@@ -1,0 +1,45 @@
+
+body{
+	font-family: 'Catamaran', sans-serif;
+	font-family: 'Rosarivo', serif;
+}
+
+.main{
+	padding: 50px;
+}
+
+.nav-sidebar{
+	margin: 80px -20px 20px 20px; 
+}
+.nav-sidebar >li >a{
+	padding: 20px 20px
+}
+.margin{
+	margin-top: 50px;
+	padding: 100px;	
+}
+
+.placeholders{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.placeholder{
+	margin-bottom: 20px;
+}
+.placeholder img{
+	display: inline;
+	border-radius: 
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+div{
+	height: 300px;
+/*	background-color: gray;*/
+	margin: 0;
+	padding: 0;
+}
+.blue{
+	background-color: skyblue;
+}
+
+h1{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}

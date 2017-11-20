@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AboutClass/AboutClass.iml" filepath="$PROJECT_DIR$/AboutClass/AboutClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstreaction/Abstreaction.iml" filepath="$PROJECT_DIR$/Abstreaction/Abstreaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayExersise/ArrayExersise.iml" filepath="$PROJECT_DIR$/ArrayExersise/ArrayExersise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayLSample/ArrayLSample.iml" filepath="$PROJECT_DIR$/ArrayLSample/ArrayLSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListAdvanced/ArrayListAdvanced.iml" filepath="$PROJECT_DIR$/ArrayListAdvanced/ArrayListAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayType/ArrayType.iml" filepath="$PROJECT_DIR$/ArrayType/ArrayType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AboutClass/BubbleSort1.iml" filepath="$PROJECT_DIR$/AboutClass/BubbleSort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSortr/BubbleSortr.iml" filepath="$PROJECT_DIR$/BubbleSortr/BubbleSortr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetterAndSetter/GetterAndSetter.iml" filepath="$PROJECT_DIR$/GetterAndSetter/GetterAndSetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphisum/Polymorphisum.iml" filepath="$PROJECT_DIR$/Polymorphisum/Polymorphisum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core.iml" filepath="$PROJECT_DIR$/.idea/core.iml" />
+    </modules>
+  </component>
+</project>

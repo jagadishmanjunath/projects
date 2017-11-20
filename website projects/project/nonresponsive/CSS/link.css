@@ -1,0 +1,53 @@
+
+a{
+	font-size: 35px;
+}
+
+/*order :link, visited, hover, acive*/
+/*
+a:link{
+	color: red;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: sienna;
+}
+a:active{
+	color: indigo;
+}*/
+a:link{
+	background-color: hotpink;
+	color: white;
+	padding:12px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:visited{
+	background-color: blue;
+}
+
+
+
+a:hover{
+	background-color: red;
+}
+
+a:active{
+	background-color: forestgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+

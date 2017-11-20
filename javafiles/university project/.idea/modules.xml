@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateFinding/DateFinding.iml" filepath="$PROJECT_DIR$/DateFinding/DateFinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialOfANumber/FactorialOfANumber.iml" filepath="$PROJECT_DIR$/FactorialOfANumber/FactorialOfANumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FarheniteToCelicus/FarheniteToCelicus.iml" filepath="$PROJECT_DIR$/FarheniteToCelicus/FarheniteToCelicus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneratingRandom/GeneratingRandom.iml" filepath="$PROJECT_DIR$/GeneratingRandom/GeneratingRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradingSystem/GradingSystem.iml" filepath="$PROJECT_DIR$/GradingSystem/GradingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestOfTheThreeIntergers/LargestOfTheThreeIntergers.iml" filepath="$PROJECT_DIR$/LargestOfTheThreeIntergers/LargestOfTheThreeIntergers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MalUrl/MalUrl.iml" filepath="$PROJECT_DIR$/MalUrl/MalUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" filepath="$PROJECT_DIR$/MaxyFinder/MaxyFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternA/PatternA.iml" filepath="$PROJECT_DIR$/PatternA/PatternA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingSystem/RatingSystem.iml" filepath="$PROJECT_DIR$/RatingSystem/RatingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/leapYear/leapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/university project.iml" filepath="$PROJECT_DIR$/.idea/university project.iml" />
+    </modules>
+  </component>
+</project>
